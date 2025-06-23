@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AbdoXCode
 - 👀 I’m interested in App Development & FullStack Development
-- 🌱 I’m currently learning Flutter Development & FullStack Development
+- 🌱 I’m currently learning FullStack Development
 - 💞️ I’m looking to collaborate on Apple Inc.
 - 📫 How to reach me adodoadodo2025@gmail.com
 - 😄 Pronouns: 😊
