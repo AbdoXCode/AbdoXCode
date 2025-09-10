@@ -20,9 +20,7 @@
 
 
 <!--Profile Count Badge-->
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=AbdoXCode&label=Profile%20views&color=770677&style=for-the-badge&logo=star" alt="Kiran1689" style="padding-right:20;" />
-</p>
+[![Hits](https://hits.sh/github.com/AbdoXCode/README.md.svg?label=PROFILE%20VIEWS&extraCount=332)](https://hits.sh/github.com/AbdoXCode/README.md/)
 
 <hr/>
 
