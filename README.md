@@ -1,13 +1,37 @@
-- 👋 Hi, I’m @AbdoXCode
+<!--Night Owl image-->
+<div>
+  <img align="right" width="35%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
+</div>
+
+
+<!--Header Name-->
+# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> ɪ'ᴍ Abdelrhman! 
+*Software Engineering Student*
+<br /> 
+
+<!--Start Intro-->               
+<p align="left">I am a Front end Developer with strong expertise in HTML, CSS , JS and Python, along with experience in building APIs and backend systems.</p>
+
 - 👀 I’m interested in App Development & FullStack Development
 - 🌱 I’m currently learning FullStack Development
 - 💞️ I’m looking to collaborate on Microsoft.
 - 📫 How to reach me adodoadodo2025@gmail.com
-- 😄 Pronouns: 😊
-- ⚡ Fun fact:  The first mobile app ever created was a simple game called 'Snake' on Nokia phones in the late 1990s. It was so addictive that it helped establish the concept of mobile gaming!
+<!--End Intro-->
 
-<!---
-AbdoXCode/AbdoXCode is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-![](https://komarev.com/ghpvc/?username=AbdoXCode)
+
+<!--Profile Count Badge-->
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=AbdoXCode&label=Profile%20views&color=770677&style=for-the-badge&logo=star" alt="Kiran1689" style="padding-right:20px;" />
+</p>
+
+---
+
+
+
+<!--Languages and Tools Section-->       
+<h2 align="center">Tᴇᴄʜ sᴛᴀᴄᴋ</h2>
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,nodejs,expressjs,python)](https://skillicons.dev)
+
+<!--End Languages and Tools Section-->       
+
