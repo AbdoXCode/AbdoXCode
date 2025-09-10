@@ -24,14 +24,18 @@
   <img src="https://komarev.com/ghpvc/?username=AbdoXCode&label=Profile%20views&color=770677&style=for-the-badge&logo=star" alt="Kiran1689" style="padding-right:20px;" />
 </p>
 
----
+<hr/>
 
 
 
-<!--Languages and Tools Section-->       
+<!--Languages and Tools-->       
 <h2 align="center">Tᴇᴄʜ sᴛᴀᴄᴋ</h2>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,expressjs,python" />
+  </a>
+</p>
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,nodejs,expressjs,python)](https://skillicons.dev)
 
-<!--End Languages and Tools Section-->       
+<!--End Languages and Tools-->       
 
