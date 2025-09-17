@@ -47,12 +47,13 @@
 <h2 align="center">📊 GitHub Stats 📊</h2>
 
 <div align="center">
-  <a href="https://github.com/AbdoXCode/github-readme-stats">
-  <img height=190 align="center" src="https://github-readme-stats.vercel.app/api?username=AbdoXCode&theme=react" />
+ <a href="https://github.com/AbdoXCode/github-readme-stats">
+  <img height=190 align="center" src="https://stats-n8u6cyii6-adodoadodo2025-gmailcoms-projects.vercel.app/api?username=AbdoXCode&theme=react&show_icons=true&count_private=true" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=AbdoXCode&theme=react&layout=compact&langs_count=8&card_width=320" />
+  <img height=200 align="center" src="https://stats-n8u6cyii6-adodoadodo2025-gmailcoms-projects.vercel.app/api/top-langs?username=AbdoXCode&theme=react&layout=compact&langs_count=8&card_width=320" />
 </a>
+
 </div>
 <!--End Status-->
 
