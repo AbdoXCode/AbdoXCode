@@ -57,6 +57,10 @@
 
 </div>
 <!--End Status-->
-
+<br/>
+<br/>
+<p align="center">
+  <img src="https://github.com/AbdoXCode/AbdoXCode/blob/main/assets/github-contribution-grid-snake.svg">
+</p>
 
 ![](https://hit.yhype.me/github/profile?account_id=195650454)
