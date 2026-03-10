@@ -10,10 +10,10 @@
 <br /> 
 
 <!--Start Intro-->               
-<p align="left">I am a Front end Developer with strong expertise in HTML, CSS , JS and Python, along with experience in building APIs and backend systems.</p>
+<p align="left">I am a Front-End Developer skilled in HTML, CSS, JavaScript, and Python, with experience building modern mobile applications and integrating AI-driven features.</p>
 
-- 👀 I’m interested in App Development & FullStack Development
-- 🌱 I’m currently learning FullStack Development
+- 👀 I’m interested in AI Engineering, Frontend Development & App Development
+- 🌱 I’m currently learning AI Engineering & Frontend Technologies
 - 💞️ I’m looking to collaborate on Microsoft.
 - 📫 How to reach me adodoadodo2025@gmail.com
 <!--End Intro-->
