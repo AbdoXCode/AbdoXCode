@@ -10,7 +10,7 @@
 <br /> 
 
 <!--Start Intro-->               
-<p align="left">I am a Front-End Developer skilled in HTML, CSS, JavaScript, and Python, with experience building modern mobile applications and integrating AI-driven features.</p>
+<p align="left">I am a FullStack Developer skilled in HTML, CSS, JavaScript, and Python, with experience building modern mobile applications and integrating AI-driven features.</p>
 
 - 👀 I’m interested in AI Engineering, Frontend Development & App Development
 - 🌱 I’m currently learning AI Engineering & Frontend Technologies
