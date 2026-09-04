@@ -12,11 +12,11 @@
 <!--Start Intro-->
 
 <p align="left">
-I am an AI Engineer focused on building intelligent applications, AI-powered systems, and backend services using modern AI and server-side technologies.
+I am an AI Engineer focused on developing intelligent applications and integrating AI technologies into scalable backend systems.
 </p>
 
 * 🤖 I’m interested in AI Engineering, Machine Learning, Generative AI & Backend Development
-* 🌱 I’m currently learning LLMs, RAG, AI Agents, Embeddings & MLOps
+* 🌱 I’m currently learning LLMs, RAG, AI Agents & MLOps
 * 💻 I work with Python, Node.js, Express.js, FastAPI, PostgreSQL & Supabase
 * 💞️ I’m looking to collaborate on AI/ML and backend projects
 * 📫 How to reach me: [adodoadodo2025@gmail.com](mailto:adodoadodo2025@gmail.com)
