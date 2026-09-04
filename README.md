@@ -19,7 +19,7 @@ I am an AI Engineer focused on developing intelligent applications and integrati
 * 🌱 I’m currently learning LLMs, RAG, AI Agents & MLOps
 * 💻 I work with Python, Node.js, Express.js, FastAPI, PostgreSQL & Supabase
 * 💞️ I’m looking to collaborate on AI/ML and backend projects
-* 📫 How to reach me: [adodoadodo2025@gmail.com](mailto:adodoadodo2025@gmail.com)
+* 📫 How to reach me: [abdelrhman.ayman2028@gmail.com](mailto:adodoadodo2025@gmail.com)
 
 <!--End Intro-->
 
