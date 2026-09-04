@@ -9,14 +9,20 @@
 *Computer Science Student*
 <br /> 
 
-<!--Start Intro-->               
-<p align="left">I am a FullStack Developer skilled in HTML, CSS, JavaScript, and Python, with experience building modern mobile applications and integrating AI-driven features.</p>
+<!--Start Intro-->
 
-- 👀 I’m interested in AI Engineering, FullStack Development
-- 🌱 I’m currently learning AI Engineering & FullStack Development
-- 💞️ I’m looking to collaborate on Microsoft.
-- 📫 How to reach me adodoadodo2025@gmail.com
+<p align="left">
+I am an AI Engineer focused on building intelligent applications, AI-powered systems, and backend services using modern AI and server-side technologies.
+</p>
+
+* 🤖 I’m interested in AI Engineering, Machine Learning, Generative AI & Backend Development
+* 🌱 I’m currently learning LLMs, RAG, AI Agents, Embeddings & MLOps
+* 💻 I work with Python, Node.js, Express.js, FastAPI, PostgreSQL & Supabase
+* 💞️ I’m looking to collaborate on AI/ML and backend projects
+* 📫 How to reach me: [adodoadodo2025@gmail.com](mailto:adodoadodo2025@gmail.com)
+
 <!--End Intro-->
+
 
 
 <!--Profile Count Badge-->
@@ -31,7 +37,7 @@
 <h2 align="center">Tᴇᴄʜ sᴛᴀᴄᴋ</h2>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,ts,react,nodejs,expressjs,py,postgres,git,github,vscode,cpp" />
+    <img src="https://skillicons.dev/icons?i=py,cpp,nodejs,expressjs,html,css,bootstrap,tailwind,js,ts,react,postgres,git,github,vscode" />
   </a>
 </p>
 
