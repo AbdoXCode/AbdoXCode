@@ -37,7 +37,7 @@ I am an AI Engineer focused on developing intelligent applications and integrati
 <h2 align="center">Tᴇᴄʜ sᴛᴀᴄᴋ</h2>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,cpp,nodejs,expressjs,html,css,bootstrap,tailwind,js,ts,react,postgres,git,github,vscode" />
+    <img src="https://skillicons.dev/icons?i=py,fastapi,js,ts,nodejs,expressjs,postgres,html,css,bootstrap,tailwind,react,git,github,vscode" />
   </a>
 </p>
 
