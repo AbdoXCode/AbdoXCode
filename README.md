@@ -17,7 +17,7 @@ I am an AI Engineer focused on developing intelligent applications and integrati
 
 * 🤖 I’m interested in AI Engineering, Machine Learning, Generative AI & Backend Development
 * 🌱 I’m currently learning LLMs, RAG, AI Agents & MLOps
-* 💻 I work with Python, Node.js, Express.js, FastAPI, PostgreSQL & Supabase
+* 💻 I work with Python, FastAPI, Node.js, Express.js, PostgreSQL & Supabase
 * 💞️ I’m looking to collaborate on AI/ML and backend projects
 * 📫 How to reach me: [abdelrhman.ayman2028@gmail.com](mailto:adodoadodo2025@gmail.com)
 
@@ -37,7 +37,7 @@ I am an AI Engineer focused on developing intelligent applications and integrati
 <h2 align="center">Tᴇᴄʜ sᴛᴀᴄᴋ</h2>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,fastapi,js,ts,nodejs,expressjs,postgres,html,css,bootstrap,tailwind,react,git,github,vscode" />
+    <img src="https://skillicons.dev/icons?i=py,tensorflow,pytorch,fastapi,js,ts,nodejs,expressjs,postgres,firebase,supabase,appwrite,aws,html,css,bootstrap,tailwind,react,git,github,vscode,clion" />
   </a>
 </p>
 
